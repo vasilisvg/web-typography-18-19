@@ -52,6 +52,8 @@ De timimg van de captions kan je aanpassen in [closed-captions/captions.js](clos
 
 Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
 
+*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
+
 ## Een eigen fragment
 
 Je kan er ook voor kiezen om een eigen, beter fragment te gebruiken. Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
