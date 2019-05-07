@@ -17,13 +17,13 @@ En dat gaan jullie doen.
 
 ## Typografische restricties
 
-Je moet kiezen, en je keuze moet je onderbouwen:
+Je *moet* kiezen, en je keuze moet je onderbouwen:
 
-### Systeemfont
+### Optie 1: Systeemfont
 
 De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. In dit geval heb je beschikking over normal, **bold** en _italic_.
 
-### Brenner
+### Optie 2: Brenner
 
 Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
 
